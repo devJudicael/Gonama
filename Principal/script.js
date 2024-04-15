@@ -122,7 +122,7 @@ button.addEventListener ('click' , ()=>{ //lorsque mon bouton est cliqué alors
             break;
 
         case "D":
-                
+                location.href="/Jjk quiz/jjkquiz.html"
             break;
 
 
