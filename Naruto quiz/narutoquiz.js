@@ -315,7 +315,7 @@ document.addEventListener('DOMContentLoaded', () => {
    // var current ;
    
    var score = 0;
-   var current= current = Math.floor (Math.random() *20)
+   var current= current = Math.floor (Math.random() *25)
    
    
    
@@ -495,7 +495,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // generer des nombres aleatoires sans repetition du nombre
    
                    do {
-                           current = Math.floor (Math.random() *20)
+                           current = Math.floor (Math.random() *25)
                    } 
                    
                    
