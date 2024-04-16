@@ -536,9 +536,7 @@ document.addEventListener('DOMContentLoaded', () => {
            })
    
    
-           back.addEventListener("click",()=>{
-            location.href="/Principal/Index.html"
-           })
+          
    
    
    

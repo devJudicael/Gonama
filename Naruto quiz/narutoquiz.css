@@ -224,6 +224,10 @@ p{
     
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
 
 
 /* partie pour voir les erreurs */

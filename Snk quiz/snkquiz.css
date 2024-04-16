@@ -18,6 +18,11 @@ body {
     background: linear-gradient(to bottom right ,#496989 , #1bcedf );
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
 
 #quiz{
     background-color: #fff;
