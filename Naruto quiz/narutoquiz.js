@@ -229,7 +229,66 @@ document.addEventListener('DOMContentLoaded', () => {
             
             correct : "a",
     
+        },
+
+
+        {
+            question: "Quel est le numéro de l'équipe composée de Naruto , Sasuke et Sakura ?" ,
+            a: "3" , 
+            b: "5" ,
+            c: "7" ,
+            d: "10",
+            
+            correct : "c",
+    
+        }   ,
+    
+    
+        {
+            question: "Parmi les personnages suivants , lequel fut le premier de sa génération à passer au rang de Chunin ?" ,
+            a: "Naruto" , 
+            b: "Ten Ten" ,
+            c: "Lee" ,
+            d: "Shikamaru",
+            
+            correct : "d",
+    
+        }   ,
+    
+        {
+            question: "Combien de coeur à Kakuzu ?" ,
+            a: "5" , 
+            b: "9" ,
+            c: "4" ,
+            d: "2",
+            
+            correct : "a",
+    
+        }   ,
+    
+        {
+            question: "Combien de temps dure l'entrainement de Naruto avec Jiraya ?" ,
+            a: "1 an" , 
+            b: "5 ans" ,
+            c: "2 ans et demi" ,
+            d: "2 ans",
+            
+            correct : "c",
+    
+        }   ,
+    
+        {
+            question: "Combien y a t'il de Pain ?" ,
+            a: "5" , 
+            b: "6" ,
+            c: "7" ,
+            d: "8",
+            
+            correct : "c",
+    
         }
+
+
     
     
     

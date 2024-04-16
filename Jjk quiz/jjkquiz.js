@@ -154,33 +154,33 @@ document.addEventListener('DOMContentLoaded', () => {
         }   ,
     
         {
-            question: "Qui succède à Erwin en tant que commandant du bataillon d'exploration ?" ,
-            a: "Hansi" , 
-            b: "Livai" ,
-            c: "Eren" ,
-            d: "Younouss",
+            question: "Comment s'apelle l'extension du territoire de Jogo ?" ,
+            a: "Cerceuil volcanique" , 
+            b: "Propagation de la larve" ,
+            c: "Fusion magmatique" ,
+            d: "Feu suprême",
             
             correct : "a",
     
         }   ,
     
         {
-            question: "Combien y a t'il de titans primordiaux ?" ,
-            a: "6" , 
-            b: "7" ,
-            c: "8" ,
-            d: "9",
+            question: "Comment s'apelle l'extension du territoire de Gojo ?" ,
+            a: "Cerceuil Sphérique" , 
+            b: "Rayon noir" ,
+            c: "Fusion infini" ,
+            d: "Sphère de l'Espace Infini",
             
             correct : "d",
     
         }   ,
     
         {
-            question: "Qui est Kenny pour Livai ?" ,
-            a: "Son père" , 
-            b: "Son frère" ,
-            c: "Son oncle" ,
-            d: "Son cousin",
+            question: "Quel était la profession de Nanami avant qu'il ne revienne chez les exorcistes ?" ,
+            a: "Professeur" , 
+            b: "Médecin" ,
+            c: "Trader" ,
+            d: "Developpeur",
             
             correct : "c",
     
@@ -188,46 +188,46 @@ document.addEventListener('DOMContentLoaded', () => {
     
     
         {
-            question: "Qui a tué Rod Reiss ?" ,
-            a: "Mikasa Ackerman" , 
-            b: "Eren Yeager" ,
-            c: "Armin Arlert" ,
-            d: "Historia",
+            question: "Comment s'appelle le directeur de l'école Tokyo Jujutsu ?" ,
+            a: "Toge Inumaki" , 
+            b: "Masamichi Yaga" ,
+            c: "Elisee Ijichi" ,
+            d: "Kiyotaka Ijichi",
+            
+            correct : "b",
+    
+        }   ,
+    
+        {
+            question: "Qui utilise une technique nécessitant de taper des mains pour déplacer des entités ?" ,
+            a: "Panda" , 
+            b: "Megumi Fushiguro" ,
+            c: "Aoi Todo" ,
+            d: "Evan Kugisaki",
+            
+            correct : "c",
+    
+        }   ,
+    
+        {
+            question: "Identifie l'intrus ?" ,
+            a: "Clan Zenin" , 
+            b: "Clan Gojo" ,
+            c: "Clan Kamo" ,
+            d: "Clan Itadori",
             
             correct : "d",
     
         }   ,
     
         {
-            question: "Que réprésente le fumigène bleu ?" ,
-            a: "Titan anormal" , 
-            b: "Titan répéré" ,
-            c: "Ordre de retraite" ,
-            d: "Titan tué",
+            question: "Qui est l'auteur de Jujutsu Kaisen ?" ,
+            a: "David Itadori" , 
+            b: "Gege Akutami" ,
+            c: "Makoto Yukimura" ,
+            d: "Koyoharu Gotōge",
             
-            correct : "c",
-    
-        }   ,
-    
-        {
-            question: "Qui est l'auteur de SNK ?" ,
-            a: "Jude Isayama" , 
-            b: "Hajime Aganesuka" ,
-            c: "Hajime Isayama" ,
-            d: "Kemeto Yeager",
-            
-            correct : "c",
-    
-        }   ,
-    
-        {
-            question: "Quel est le nom de la mère de Livai ?" ,
-            a: "Kucchel" , 
-            b: "Orne" ,
-            c: "Samir" ,
-            d: "Kanie",
-            
-            correct : "a",
+            correct : "b",
     
         }
     
