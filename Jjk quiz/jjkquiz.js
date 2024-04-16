@@ -8,44 +8,44 @@ document.addEventListener('DOMContentLoaded', () => {
     var quizData = [
 
         {
-            question: "Quels étaient les noms des frères et soeurs de Conny ?" ,
-            a: "Sonny et Martin" , 
-            b: "Sunny et Martina" ,
-            c: "Sonny et Martina" ,
-            d: "Sunny et Martin",
+            question: "Yuji itadori est le réceptacle de ... Sukuna" ,
+            a: "Ryûji" , 
+            b: "Reiji" ,
+            c: "Rin" ,
+            d: "Ryomen",
             
             correct : "d",
     
         }   ,
     
         {
-            question: "Comment est mort le titan souriant ?" ,
-            a: "Tué par Mikasa" , 
-            b: "Tué par Hannes" ,
-            c: "Dévoré par les autres titans " ,
-            d: "Tué par Eren sous sa forme de titan",
+            question: "Itadori développe une technique propre à lui même qui s'appelle ..." ,
+            a: "Amateratsu" , 
+            b: "Rayon noir" ,
+            c: "Technique de l'intervalle " ,
+            d: "Orbe fléautique",
             
             correct : "c",
     
         }   ,
     
         {
-            question: "À quel moment est utilisé un fumigène de signalisation Jaune ?" ,
-            a: "Opération finie" , 
-            b: "Titan répéré" ,
-            c: "Ordre de retrait" ,
-            d: "Un titan tué",
+            question: "Quel était le nom de l'ado que Mahito a manipulé après avoir tué sa mère ?" ,
+            a: "Junpei Yoshino" , 
+            b: "Dave Fushiguro" ,
+            c: "Toge Uzumaki" ,
+            d: "Yuto Okkotsu",
             
             correct : "a",
     
         }   ,
     
         {
-            question: "Quel était le rêve d'Armin ?" ,
-            a: "Se transformer en titan" , 
-            b: "Vivre sans les titans" ,
-            c: "Voyager" ,
-            d: "Voir la mer",
+            question: "Comment se nomme le sceau autour de la bouche de Toge Inumaki ?" ,
+            a: "Lion et tigre" , 
+            b: "Loup et Chien" ,
+            c: "Renard et Serpent" ,
+            d: "Serpent et Crocs",
             
             correct : "d",
     
@@ -54,100 +54,100 @@ document.addEventListener('DOMContentLoaded', () => {
     
     
         {
-            question: "Comment s'appellent les deux peuples ennemis dans SNK ?" ,
-            a: "Paradis et Mahr" , 
-            b: "Eldiens et Mahr" ,
-            c: "Marley et Hizuru" ,
-            d: "Hizuru et Mahr",
+            question: "Quel personnage a quitté le clan Zenin étant plus jeune ?" ,
+            a: "Megumi Fushiguro" , 
+            b: "Maki Zenin" ,
+            c: "Mai Zenin" ,
+            d: "Jude Zenin",
             
             correct : "b",
     
         }   ,
     
         {
-            question: "Quel est le nom de famille de Sasha ?" ,
-            a: "Braus" , 
-            b: "Brown" ,
-            c: "Brou" ,
-            d: "Bran",
+            question: "Comment se nommme la technique permettant d'enfermer son adversaire dans un espace personnel ?" ,
+            a: "Sort d'invasion" , 
+            b: "Emprisonnement fléautique" ,
+            c: "Rayon noir" ,
+            d: "extension du territoire",
             
-            correct : "a",
+            correct : "d",
     
         }   ,
     
         {
-            question: "Sous quel nom Eren s'infiltre à Revelio ?" ,
-            a: "Rene" , 
-            b: "Jearen" ,
-            c: "Kruger" ,
-            d: "Djeager",
+            question: "Combien de noyaux possède Panda ?" ,
+            a: "1" , 
+            b: "2" ,
+            c: "3" ,
+            d: "4",
             
             correct : "c",
     
         }   ,
     
         {
-            question: "Quel était la profession du père d'Eren ?" ,
-            a: "Inventeur" , 
+            question: "Quel est le sort héréditaire de Satoru ?" ,
+            a: "Sort d'inversion" , 
             b: "Professeur" ,
-            c: "Médecin" ,
-            d: "Commerçant",
+            c: "Technique des dix ombres" ,
+            d: "Pouvoir de l'infini",
             
-            correct : "c",
+            correct : "d",
     
         },
     
     
         {
-            question: "Dans quelle ville se trouve la maison d'Eren ?" ,
-            a: "Yarkel" , 
-            b: "Trost" ,
-            c: "Krolva" ,
-            d: "Shiganshina",
+            question: "Comment s'appellent les deux amis de Yuji faisant partie du club de spiritisme ?" ,
+            a: "Ayame et Kohana" , 
+            b: "Akiro et Fuyuko" ,
+            c: "Sasaki et Iguchi" ,
+            d: "Mieko et Dai",
             
-            correct : "d",
+            correct : "c",
     
         }   ,
     
         {
-            question: "Quel était le premier mur à ceder face aux titans ?" ,
-            a: "Sina" , 
-            b: "Maria" ,
-            c: "Rose" ,
-            d: "Ymir",
+            question: "Contre qui se bat Gojo lorsqu'il enseigne l'extension du territoire à Yuji ?" ,
+            a: "Sukuna" , 
+            b: "Jogo" ,
+            c: "Geto" ,
+            d: "Mahito",
             
             correct : "b",
     
         }   ,
     
         {
-            question: "Quelle partie du corps des titans faut-il sectionner pour les tuer ?" ,
-            a: "Le front" , 
-            b: "Les molets" ,
-            c: "La machoire" ,
-            d: "La nuque",
+            question: "Quel est le nom du grand-père de Yuji" ,
+            a: "Waji" , 
+            b: "Wabi" ,
+            c: "Warinto" ,
+            d: "Wasuke",
             
             correct : "d",
     
         }   ,
     
         {
-            question: "Comment Hansi nomme t-elle les deux titans capturés par le bataillon d'exploration ?" ,
-            a: "Joachim et Kroll" , 
-            b: "Albert et Fish" ,
-            c: "Jeffrey et Dahmer" ,
-            d: "Sawney et Bean",
+            question: "Combien y a t'il de doigts de Sukuna au total ?" ,
+            a: "10" , 
+            b: "22" ,
+            c: "20" ,
+            d: "11",
             
-            correct : "d",
+            correct : "c",
     
         },
     
         {
-            question: "Qui commandait le bataillon d'exploration avant Erwin ?" ,
-            a: "Keith" , 
-            b: "Hansi" ,
-            c: "Pixis" ,
-            d: "Zacky",
+            question: "Combien y a t'il d'épisodes dans la saison 1 de Jujutsu Kaisen ?" ,
+            a: "24" , 
+            b: "21" ,
+            c: "20" ,
+            d: "36",
             
             correct : "a",
     
