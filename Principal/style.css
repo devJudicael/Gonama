@@ -32,7 +32,7 @@ body {
 }
 
 
-p{
+.p{
     text-align: center;
     font-size: 2rem;
 }
@@ -266,4 +266,10 @@ section:hover {
 
 .na {
     background-image: url(/Principal/imgprincip/na.jpg);
+}
+
+.cpright {
+        margin-top: 2px;
+        text-align: center;
+        font-size: 1rem;
 }
